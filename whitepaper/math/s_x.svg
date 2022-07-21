@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2.8884857mm"
+   height="3.0329578mm"
+   viewBox="0 0 2.8884857 3.0329578"
+   version="1.1"
+   id="svg9821"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="S_x.svg">
+  <defs
+     id="defs9815">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6624">
+      <path
+         d="m 62.399,724.073 h 14.9 v 14.924 h -14.9 z"
+         id="path6622"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-644.54144"
+     inkscape:cy="40.017283"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata9818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-141.43076,-156.38828)">
+    <g
+       transform="matrix(0.35277777,0,0,-0.35277777,118.30922,415.39432)"
+       id="g6618">
+      <g
+         id="g6620"
+         clip-path="url(#clipPath6624)">
+        <g
+           id="g6626">
+          <text
+             transform="matrix(1,0,0,-0.99338406,65.395,728.578)"
+             style="font-style:italic;font-variant:normal;font-size:11.99032688px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text6630">
+            <tspan
+               x="0"
+               y="0"
+               id="tspan6628">s</tspan>
+          </text>
+        </g>
+        <g
+           id="g6632">
+          <text
+             transform="matrix(1,0,0,-0.99338406,70.611,725.593)"
+             style="font-style:italic;font-variant:normal;font-size:7.14325953px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text6636">
+            <tspan
+               x="0"
+               y="0"
+               id="tspan6634">x</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

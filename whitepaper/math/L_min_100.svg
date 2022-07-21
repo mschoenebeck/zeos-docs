@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15.969687mm"
+   height="3.8733177mm"
+   viewBox="0 0 15.969687 3.8733177"
+   version="1.1"
+   id="svg1424"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="L_min_100.svg">
+  <defs
+     id="defs1418">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath948">
+      <path
+         d="m 187.71,659.289 h 52.139 v 14.987 H 187.71 Z"
+         id="path946"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-319.82107"
+     inkscape:cy="-64.1089"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1421">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-55.515157,-127.99787)">
+    <g
+       transform="matrix(0.35277777,0,0,-0.35277777,-11.995389,364.98074)"
+       id="g942">
+      <g
+         id="g944"
+         clip-path="url(#clipPath948)">
+        <g
+           id="g950">
+          <text
+             transform="matrix(1,0,0,-1,191.509,663.788)"
+             style="font-style:italic;font-variant:normal;font-size:11.99100018px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text954">
+            <tspan
+               x="0"
+               y="0"
+               id="tspan952">L</tspan>
+          </text>
+        </g>
+        <g
+           id="g956">
+          <text
+             transform="matrix(1,0,0,-1,198.198,660.783)"
+             style="font-style:italic;font-variant:normal;font-size:7.19999981px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text960">
+            <tspan
+               x="0 5.1984 7.1928"
+               y="0"
+               sodipodi:role="line"
+               id="tspan958">min</tspan>
+          </text>
+        </g>
+        <g
+           id="g962">
+          <text
+             transform="matrix(1,0,0,-1,209.509,663.788)"
+             style="font-variant:normal;font-weight:normal;font-size:11.99100018px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text966">
+            <tspan
+               x="0"
+               y="0"
+               id="tspan964">=</tspan>
+          </text>
+        </g>
+        <g
+           id="g968">
+          <text
+             transform="matrix(1,0,0,-1,219.203,663.788)"
+             style="font-variant:normal;font-weight:normal;font-size:11.99100018px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text972">
+            <tspan
+               x="0 5.8995719 11.895072"
+               y="0"
+               sodipodi:role="line"
+               id="tspan970">100</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

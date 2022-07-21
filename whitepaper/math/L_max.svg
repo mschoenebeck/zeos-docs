@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.6625214mm"
+   height="3.8457565mm"
+   viewBox="0 0 6.6625214 3.8457565"
+   version="1.1"
+   id="svg8522"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="L_max.svg">
+  <defs
+     id="defs8516">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1746">
+      <path
+         d="m 156.199,414.189 h 25.444 v 15 h -25.444 z"
+         id="path1744"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="12.590591"
+     inkscape:cy="7.2675878"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata8519">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(32.435427,-146.91046)">
+    <g
+       transform="matrix(0.35277777,0,0,-0.35277777,-88.795726,297.37989)"
+       id="g1740">
+      <g
+         id="g1742"
+         clip-path="url(#clipPath1746)">
+        <g
+           id="g1748">
+          <text
+             transform="matrix(1,0,0,-1,159.902,418.676)"
+             style="font-style:italic;font-variant:normal;font-size:11.99100018px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text1752">
+            <tspan
+               x="0"
+               y="0"
+               id="tspan1750">L</tspan>
+          </text>
+        </g>
+        <g
+           id="g1754">
+          <text
+             transform="matrix(1,0,0,-1,166.706,415.7)"
+             style="font-style:italic;font-variant:normal;font-size:7.19999981px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text1758">
+            <tspan
+               x="0 5.1984 8.7983999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan1756">max</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

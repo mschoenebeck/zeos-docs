@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="42.958485mm"
+   height="7.7694392mm"
+   viewBox="0 0 42.958485 7.7694392"
+   version="1.1"
+   id="svg9104"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="M_syn_def.svg">
+  <defs
+     id="defs9098">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6544">
+      <path
+         d="m 277.409,753.739 h 128.536 v 24.342 H 277.409 Z"
+         id="path6542"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="351.14718"
+     inkscape:cy="-160.39975"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata9101">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(244.48519,22.116863)">
+    <g
+       transform="matrix(0.35277777,0,0,-0.35277777,-343.59867,252.18612)"
+       id="g6538">
+      <g
+         id="g6540"
+         clip-path="url(#clipPath6544)">
+        <g
+           id="g6546">
+          <text
+             transform="matrix(0.99922,0,0,-1,281.092,766.091)"
+             style="font-style:italic;font-variant:normal;font-size:11.99100018px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text6550">
+            <tspan
+               x="0"
+               y="0"
+               id="tspan6548">M</tspan>
+          </text>
+        </g>
+        <g
+           id="g6552">
+          <text
+             transform="matrix(0.99922,0,0,-1,292.393,763.086)"
+             style="font-style:italic;font-variant:normal;font-size:7.19999981px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text6556">
+            <tspan
+               x="0 2.7 5.8895998"
+               y="0"
+               sodipodi:role="line"
+               id="tspan6554">syn</tspan>
+          </text>
+        </g>
+        <g
+           id="g6558">
+          <text
+             transform="matrix(0.99922,0,0,-1,302.108,766.091)"
+             style="font-variant:normal;font-weight:normal;font-size:11.99100018px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text6562">
+            <tspan
+               x="0"
+               y="0"
+               id="tspan6560">=</tspan>
+          </text>
+        </g>
+        <g
+           id="g6564">
+          <text
+             transform="matrix(0.99922,0,0,-1,326.099,764.588)"
+             style="font-variant:normal;font-weight:normal;font-size:17.48999977px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text6568">
+            <tspan
+               x="0"
+               y="0"
+               id="tspan6566">∑</tspan>
+          </text>
+        </g>
+        <g
+           id="g6570">
+          <text
+             transform="matrix(0.99922,0,0,-1,311.909,755.602)"
+             style="font-style:italic;font-variant:normal;font-size:7.19999981px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text6574">
+            <tspan
+               x="0 3.4992001 6.3000002 9.1007996 12.2904"
+               y="0"
+               sodipodi:role="line"
+               id="tspan6572">asset</tspan>
+          </text>
+        </g>
+        <g
+           id="g6576">
+          <text
+             transform="matrix(0.99922,0,0,-1,327.6,755.602)"
+             style="font-variant:normal;font-weight:normal;font-size:7.19999981px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text6580">
+            <tspan
+               x="0"
+               y="0"
+               id="tspan6578">∈</tspan>
+          </text>
+        </g>
+        <g
+           id="g6582">
+          <text
+             transform="matrix(0.99922,0,0,-1,332.897,755.602)"
+             style="font-style:italic;font-variant:normal;font-size:7.19999981px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text6586">
+            <tspan
+               x="0 2.7 7.092 9.8928003 12.6936 15.8832 17.8776"
+               y="0"
+               sodipodi:role="line"
+               id="tspan6584">zAssets</tspan>
+          </text>
+        </g>
+        <g
+           id="g6588">
+          <text
+             transform="matrix(0.99922,0,0,-1,356.888,766.091)"
+             style="font-style:italic;font-variant:normal;font-size:11.99100018px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text6592">
+            <tspan
+               x="0"
+               y="0"
+               id="tspan6590">s</tspan>
+          </text>
+        </g>
+        <g
+           id="g6594">
+          <text
+             transform="matrix(0.99922,0,0,-1,362.1,763.086)"
+             style="font-style:italic;font-variant:normal;font-size:7.19999981px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text6598">
+            <tspan
+               x="0 3.4992001 6.3000002 9.1007996 12.2904"
+               y="0"
+               sodipodi:role="line"
+               id="tspan6596">asset</tspan>
+          </text>
+        </g>
+        <g
+           id="g6600">
+          <text
+             transform="matrix(0.99922,0,0,-1,375.61,766.091)"
+             style="font-variant:normal;font-weight:normal;font-size:11.99100018px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text6604">
+            <tspan
+               x="0"
+               y="0"
+               id="tspan6602">⋅</tspan>
+          </text>
+        </g>
+        <g
+           id="g6606">
+          <text
+             transform="matrix(0.99922,0,0,-1,381.587,766.091)"
+             style="font-style:italic;font-variant:normal;font-size:11.99100018px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text6610">
+            <tspan
+               x="0"
+               y="0"
+               id="tspan6608">p</tspan>
+          </text>
+        </g>
+        <g
+           id="g6612">
+          <text
+             transform="matrix(0.99922,0,0,-1,388.3,763.086)"
+             style="font-style:italic;font-variant:normal;font-size:7.19999981px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text6616">
+            <tspan
+               x="0 3.4992001 6.3000002 9.1007996 12.2904"
+               y="0"
+               sodipodi:role="line"
+               id="tspan6614">asset</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="27.401567mm"
+   height="4.387269mm"
+   viewBox="0 0 27.401567 4.387269"
+   version="1.1"
+   id="svg2376"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="C_ext_def.svg">
+  <defs
+     id="defs2370">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1488">
+      <path
+         d="m 62.407,286.989 h 84.592 v 15 H 62.407 Z"
+         id="path1486"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-118.21751"
+     inkscape:cy="-154.56625"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2373">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.1742167,-103.55041)">
+    <g
+       transform="matrix(0.35277777,0,0,-0.35277777,-21.128609,209.18102)"
+       id="g1482">
+      <g
+         id="g1484"
+         clip-path="url(#clipPath1488)">
+        <g
+           id="g1490">
+          <text
+             transform="matrix(1,0,0,-0.99882139,65.387,291.486)"
+             style="font-style:italic;font-variant:normal;font-size:12.00514984px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text1494">
+            <tspan
+               x="0"
+               y="0"
+               id="tspan1492">C</tspan>
+          </text>
+        </g>
+        <g
+           id="g1496">
+          <text
+             transform="matrix(1,0,0,-0.99882139,74.412,288.481)"
+             style="font-style:italic;font-variant:normal;font-size:7.20849609px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text1500">
+            <tspan
+               x="0 3.1933637 6.3867273"
+               y="0"
+               sodipodi:role="line"
+               id="tspan1498">ext</tspan>
+          </text>
+        </g>
+        <g
+           id="g1502">
+          <text
+             transform="matrix(1,0,0,-0.99882139,83.409,291.486)"
+             style="font-variant:normal;font-weight:normal;font-size:12.00514984px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text1506">
+            <tspan
+               x="0"
+               y="0"
+               id="tspan1504">=</tspan>
+          </text>
+        </g>
+        <g
+           id="g1508">
+          <text
+             transform="matrix(1,0,0,-0.99882139,93.2,291.486)"
+             style="font-style:italic;font-variant:normal;font-size:12.00514984px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text1512">
+            <tspan
+               x="0"
+               y="0"
+               id="tspan1510">C</tspan>
+          </text>
+        </g>
+        <g
+           id="g1514">
+          <text
+             transform="matrix(1,0,0,-0.99882139,101.487,288.481)"
+             style="font-style:italic;font-variant:normal;font-size:7.20849609px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text1518">
+            <tspan
+               x="0 3.1933637 6.7976117"
+               y="0"
+               sodipodi:role="line"
+               id="tspan1516">eos</tspan>
+          </text>
+        </g>
+        <g
+           id="g1520">
+          <text
+             transform="matrix(1,0,0,-0.99882139,111.987,291.486)"
+             style="font-variant:normal;font-weight:normal;font-size:12.00514984px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text1524">
+            <tspan
+               x="0"
+               y="0"
+               id="tspan1522">+</tspan>
+          </text>
+        </g>
+        <g
+           id="g1526">
+          <text
+             transform="matrix(1,0,0,-0.99882139,119.508,291.486)"
+             style="font-style:italic;font-variant:normal;font-size:12.00514984px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text1530">
+            <tspan
+               x="0"
+               y="0"
+               id="tspan1528">C</tspan>
+          </text>
+        </g>
+        <g
+           id="g1532">
+          <text
+             transform="matrix(1,0,0,-0.99882139,128.504,288.481)"
+             style="font-style:italic;font-variant:normal;font-size:7.20849609px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text1536">
+            <tspan
+               x="0 3.1933637 5.1901169 8.7943649 12.398613"
+               y="0"
+               sodipodi:role="line"
+               id="tspan1534">vigor</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
