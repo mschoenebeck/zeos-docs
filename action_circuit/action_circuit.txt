@@ -1,0 +1,53 @@
+
+Layout:
+
+| A0 | A1 | A2 | A3 | A4   | A5 | A6  | A7   | A8    | A9 | Offset
+ d1_a d1_b d1_c root ANCHOR cm_a cm_a' pk_d_a pk_d_a' rk_x     0
+ RK_X rk_y RK_Y d2_a  d2_b  nf_a rho_b   NF    B_D1   B_D2     1
+ B_SC sc_b CMB  cm_b  NFT   CMC  cm_c   C_D1                   2
+
+################################################################################################
+
+Constraints:
+
+// Global
+(d1_a - d1_b - d1_c) * (d1_a + d1_c) = 0
+
+// A
+d1_a * (root - ANCHOR) = 0
+d1_a * (cm_a - derived_cm_a) = 0
+d1_a * (pk_d_a - derived_pk_d_a) = 0
+d1_a * (rk_x - RK_X) = 0
+d1_a * (rk_y - RK_Y) = 0
+d1_a * (d2_a - d2_b) = 0
+d1_a * (nf_a + rho_b - 2*NF) = 0
+
+// B
+B_D1 * (B_D1 - d1_b) = 0
+B_D1 * (B_D2 - d2_b) = 0
+B_D1 * (B_SC - sc_b) = 0
+CMB * (CMB - cm_b) = 0
+
+// C
+NFT * d1_c = 0
+C_D1 * (C_D1 - d1_c) = 0
+CMC * (CMC - cm_c) = 0
+
+################################################################################################
+
+            | ANCHOR |   NF   |  RK_X  |  RK_Y  |  NFT   |  B_D1  |  B_D2  |  B_SC  |  C_D1  |  CMB   |  CMC   | Private Inputs
+============+========+========+========+========+========+========+========+========+========+========+================
+BURNAUTH    |   0    |   0    |    0   |   0    |   0    |   d1   |   d2   |   sc   |   0    |   cm   |   0    | d1_a = 0, d1_c = 0, d1_b = d1, d2_b = d2, sc_b = sc, cm_b = cm
+MINTFT      |   0    |   0    |    0   |   0    |   0    |   d1   |   d2   |   sc   |   0    |   cm   |   0    | d1_a = 0, d1_c = 0, d1_b = d1, d2_b = d2, sc_b = sc, cm_b = cm
+MINTNFT     |   0    |   0    |    0   |   0    |   1    |   d1   |   d2   |   sc   |   0    |   cm   |   0    | d1_a = 0, d1_c = 0, d1_b = d1, d2_b = d2, sc_b = sc, cm_b = cm
+TRANSFERFT  |  root  |   nf   |  rkx   |  rky   |   0    |   0    |   0    |   0    |   0    |  cmb   |  cmc   | d1_a = d1_b + d1_c, d2_a = d2_b, rk_x = rkx, rk_y = rky, rho_b = nf
+TRANSFERNFT |  root  |   nf   |  rkx   |  rky   |   1    |   0    |   0    |   0    |   0    |  cmb   |   0    | d1_a = d1_b, d1_c = 0, d2_a = d2_b, rk_x = rkx, rk_y = rky, rho_b = nf 
+BURNFT      |  root  |   nf   |  rkx   |  rky   |   0    |   d1   |   d2   |   sc   |   0    |   0    |  cmc   | d1_a = d1 + d1_c, d2_a = d2, sc_b = sc, rk_x = rkx, rk_y = rky, rho_b = nf 
+BURNFT2     |  root  |   nf   |  rkx   |  rky   |   0    |   d1b  |   d2   |   sc   |   d1c  |   0    |   0    | d1_a = d1b + d1c, d2_a = d2, sc_b = sc, rk_x = rkx, rk_y = rky, rho_b = nf 
+BURNNFT     |  root  |   nf   |  rkx   |  rky   |   1    |   d1   |   d2   |   sc   |   0    |   0    |   0    | d1_a = d1, d1_c = 0, d2_a = d2, sc_b = sc, rk_x = rkx, rk_y = rky, rho_b = nf 
+
+################################################################################################
+
+
+
+
