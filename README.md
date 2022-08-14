@@ -5,7 +5,7 @@
 - Website: https://zeos.one
 - Twitter: https://twitter.com/ZEOSonEOS
 - Telegram: https://t.me/ZeosOnEos
-- Discord: https://discord.gg/MDgYHJy8HH0
+- Discord: https://discord.gg/8rstvq5AHB
 - Medium: https://medium.com/@matthias.schoenebeck
 - Github: https://github.com/mschoenebeck
 - YouTube: https://youtube.com/channel/UCK46psfTWlyy4mC2fLMNRjg
